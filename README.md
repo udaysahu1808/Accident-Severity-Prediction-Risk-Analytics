@@ -252,7 +252,17 @@ Ten evidence-based recommendations for transportation authorities and policymake
 
 ## 📄 License
 
-This project is for academic and educational purposes.
+Copyright (c) 2026 Uday Sahu
+
+All Rights Reserved.
+
+This project and all associated files are the exclusive property of Uday Sahu.
+
+No part of this project may be reproduced, copied, modified, distributed, published, sublicensed, or sold in any form without prior written permission from the copyright holder.
+
+This project is provided for viewing and portfolio demonstration purposes only.
+
+Unauthorized use of this project is strictly prohibited.
 
 ---
 
