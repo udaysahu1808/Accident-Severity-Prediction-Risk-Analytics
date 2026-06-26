@@ -277,6 +277,6 @@ Unauthorized use of this project is strictly prohibited.
 
 ## 🙋 Author
 
-**Uday S.**
+**Uday Sahu.**
 *Data Science Project | Road Safety & Accident Analytics Domain*
 
