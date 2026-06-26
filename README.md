@@ -1,8 +1,17 @@
 # 🚦 Accident Severity Prediction & Risk Analytics
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-6A1B9A)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib-11557C)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![Classification](https://img.shields.io/badge/Task-Classification-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 A comprehensive end-to-end data science project that analyzes road traffic accident (RTA) data to identify key risk factors, predict accident severity using machine learning, and deliver actionable insights for road safety improvement — paired with an interactive Power BI dashboard.
